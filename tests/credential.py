@@ -1,5 +1,5 @@
 URL = {
-    "url": "https://murrengan.ru",
+    "url": "https://murrengan.ru", 
     "register": "/murren/register/",
     "login": "/murren/token_create/",
     "reset_pass": "/murren/reset_password/",
@@ -8,8 +8,7 @@ URL = {
 
 HEADER = {
     "header": {
-        "accept": "application/json",
-        "Content-Type": "application/json-patch"
+        "Content-Type": "application/json"
         }
 }
 

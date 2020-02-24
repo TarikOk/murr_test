@@ -1,5 +1,3 @@
-import requests
-import credential
 import jwt
 
 
